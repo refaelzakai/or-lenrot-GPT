@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "אור לנרות",
+  "short_name": "אור לנרות",
+  "description": "סדר תפילות ופרקי תהילים מול נרות החנוכה",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f0e6",
+  "theme_color": "#101b31",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/wFkq5pmg/cropped-circle-2.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.ibb.co/wFkq5pmg/cropped-circle-2.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
